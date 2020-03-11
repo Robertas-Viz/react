@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.developement.local
+.env.test.local
+.env
+
+npm-debug.log*
+npm-error.log*
